@@ -99,9 +99,11 @@ class SearchResults extends React.Component {
 
                             <p>{item.data.title}</p>
 
-                            <p>{item.data.usp}</p>
-
                             </a>
+                            
+                            <p>ups {item.data.ups}</p>
+
+                        
                         </li>
                     )
                 })}
