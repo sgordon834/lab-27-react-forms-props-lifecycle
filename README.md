@@ -10,3 +10,7 @@ Usage
 4. enter the board you want to search in the search field
 5. enter number of returned searches up to 100
 5. press enter and enjoy!
+
+Do not add spaces to your search.  It will not return anything.
+
+
